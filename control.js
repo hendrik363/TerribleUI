@@ -60,6 +60,6 @@ document.getElementById('dob-day').oninput = () => {
 }
 
 document.getElementById('register').onclick = () => {
-	alert('Thanks for registering 4head :D')
+	alert('Thanks for registering :D')
 	location.reload()
 }
